@@ -1,0 +1,20 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.header {padding: 21.84px 0;
+align-items: center;}
+.row {display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container {width: calc(100% - 330px);
+margin: auto;}
+ul{list-style: none;}
+a{text-decoration-line: none;}
+.menu ul {display: flex;
+gap: 60px;
+font-size: 14px;
+font-family: Inter;
+color: #3A3845 ;}
+.headerright ul{display: flex;
+gap: 24px;}
